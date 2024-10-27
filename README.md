@@ -47,4 +47,4 @@
 <br>
 
 <h2>HacktoberFest 2023 badges: </h2>
-[![An image of @muntaxir4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muntaxir4)](https://holopin.io/@muntaxir4)
+<p><a href="https://holopin.io/@muntaxir4"><img src="index_files/muntaxir4.png" alt="An image of @muntaxir4's Holopin badges, which is a link to view their full Holopin profile"></a></p>
