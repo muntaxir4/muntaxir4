@@ -7,8 +7,8 @@
 <ul>
     <li>👨‍💻 I'm a Full Stack Developer, experienced in developing and achitecting scalable applications.</li>
     <li>🎓 I'm currently pursuing my B.Tech in Computer Science and Engineering.</li>
-    <li>🔭 I'm level up my problem solving skills through LeetCode and have solved over 400 questions.</li>
-    <li>🌱 I'm currently learning about Artificial Intelligence and improving my web knowledge as well.</li>
+    <li>🔭 I level up my problem solving skills through LeetCode and have solved over 400 questions.</li>
+    <li>🌱 I'm currently learning about Artificial Intelligence and improving my web knowledge.</li>
 </ul>
 <br>
 <h2>Open Source Stats: </h2>
