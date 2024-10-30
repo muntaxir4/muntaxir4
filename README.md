@@ -44,7 +44,7 @@
 <h2>Projects: </h2>
 <ul>
 <li><h3><a href="https://inapy.mallik.tech">inPay: </a> A feature-rich large-scale P2P payments hub. Transfer and chat with users and merchants. Deposit and Withdraw from favorite banks. Supports multi currencies INR, USD and AED.</h3></li>
-<li><h3><a href="https://heliotask.mallik.tech">HelioTask: </a>Kanban based task management. Manage tasks with status, priority, due dates in a engaging UI. </h3></li>
+<li><h3><a href="https://heliotask.mallik.tech">HelioTask: </a>Kanban based task management. Manage tasks with status, priority, due dates in an engaging UI. </h3></li>
 </ul>
 <br>
 
