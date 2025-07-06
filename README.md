@@ -5,10 +5,10 @@
 
 <h2>About Me: </h2>
 <ul>
-    <li>👨‍💻 I'm a Full Stack Developer, experienced in developing and achitecting scalable applications.</li>
-    <li>🎓 I'm currently pursuing my B.Tech in Computer Science and Engineering.</li>
-    <li>🔭 I level up my problem solving skills through LeetCode and have solved over 400 questions.</li>
-    <li>🌱 I'm currently learning about Artificial Intelligence and improving my web knowledge.</li>
+<li>👨‍💻 Full Stack Developer with experience building <strong>real-time, scalable, and AI-powered applications.</strong></li> 
+<li>📬 <strong>Led the development of a cross-platform email client</strong> (inbo.club) to serve 10,000+ users.</li>
+<li>🎓 B.Tech CSE student and <strong>Google Summer of Code contributor</strong> with production-grade open-source experience.</li>
+<li>🧠 Exploring LLMs, RAG, and systems design while solving 500+ problems on LeetCode.</li>
 </ul>
 <br>
 <h2>Open Source Stats: </h2>
@@ -48,5 +48,6 @@
 </ul>
 <br>
 
-<h2>HacktoberFest 2023 badges: </h2>
-<p><a href="https://holopin.io/@muntaxir4"><img src="https://holopin.me/muntaxir4" alt="An image of @muntaxir4's Holopin badges, which is a link to view their full Holopin profile"></a></p>
+<!-- <h2>HacktoberFest 2023 badges: </h2>
+<p><a href="https://holopin.io/@muntaxir4"><img src="https://holopin.me/muntaxir4" alt="An image of @muntaxir4's Holopin badges, which is a link to view their full Holopin profile"></a></p> -->
+
