@@ -1,7 +1,7 @@
 <h1>Hey! <strong>Muntasir</strong> here...👋</h1>
 <p align="center" ><img src="https://komarev.com/ghpvc/?username=muntaxir4&style=for-the-badge"></p>
 
-<p align="center" >My portfolio website:<a href="https://www.mallik.tech"> mallik.tech </a> </p>
+<p align="center" >My portfolio website:<a href="https://www.muntasirm.com"> muntasirm.com </a> </p>
 
 <h2>About Me: </h2>
 <ul>
