@@ -3,13 +3,14 @@
 
 <p align="center" >My portfolio website:<a href="https://www.muntasirm.com"> muntasirm.com </a> </p>
 
-<h2>About Me: </h2>
-<ul>
-<li>👨‍💻 Full Stack Developer with experience building <strong>real-time, scalable, and AI-powered applications.</strong></li> 
-<li>📬 <strong>Led the development of a cross-platform email client</strong> (inbo.club) to serve 10,000+ users.</li>
-<li>🎓 B.Tech CSE student and <strong>Google Summer of Code contributor</strong> with production-grade open-source experience.</li>
-<li>🧠 Exploring LLMs, RAG, and systems design while solving 500+ problems on LeetCode.</li>
-</ul>
+## ⚡ About Me
+
+* 👨‍💻 **Full Stack AI Engineer** specializing in production AI agents, sales automation, and high-concurrency systems.
+* 🚀 **Core Product:** Tech Lead & Founding Engineer at **XyRo AI**, architecting AI sales automation systems, custom RAG agents, and real-time voice outreach pipelines.
+* 📬 **Engineering:** Built **inbo.club** (cross-platform email client) with serverless infrastructure capable of processing **50k+ emails/month**.
+* 🌐 **Open Source:** **Google Summer of Code** alumnus with core contributions to **AOSSIE.org** (LLM RAG modules & Redis Pub/Sub real-time messaging).
+* 🧠 **CS Fundamentals:** Systems design enthusiast with **500+ LeetCode problems** solved.
+  
 <br>
 <h2>Open Source Stats: </h2>
 <div align="center">
